@@ -1,8 +1,10 @@
 body {
-	background-color: #fff;
-	font-size: 45px;
-	transition: 1s;
+	display: flex;
+	justify-content: center;
 	align-items: center;
-	// to jest komentarz
-	appearance: none;
+	background-color: #fff;
+}
+
+p {
+	font-size: 48px;
 }
